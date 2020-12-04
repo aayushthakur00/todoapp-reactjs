@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lcotodoapp/static/css/main.d4ab34ad.chunk.css",
+    "main.js": "/lcotodoapp/static/js/main.1b425461.chunk.js",
+    "main.js.map": "/lcotodoapp/static/js/main.1b425461.chunk.js.map",
+    "runtime-main.js": "/lcotodoapp/static/js/runtime-main.af150ee1.js",
+    "runtime-main.js.map": "/lcotodoapp/static/js/runtime-main.af150ee1.js.map",
+    "static/js/2.b1c2eda3.chunk.js": "/lcotodoapp/static/js/2.b1c2eda3.chunk.js",
+    "static/js/2.b1c2eda3.chunk.js.map": "/lcotodoapp/static/js/2.b1c2eda3.chunk.js.map",
+    "static/js/3.39c63acf.chunk.js": "/lcotodoapp/static/js/3.39c63acf.chunk.js",
+    "static/js/3.39c63acf.chunk.js.map": "/lcotodoapp/static/js/3.39c63acf.chunk.js.map",
+    "index.html": "/lcotodoapp/index.html",
+    "static/css/main.d4ab34ad.chunk.css.map": "/lcotodoapp/static/css/main.d4ab34ad.chunk.css.map",
+    "static/js/2.b1c2eda3.chunk.js.LICENSE.txt": "/lcotodoapp/static/js/2.b1c2eda3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af150ee1.js",
+    "static/js/2.b1c2eda3.chunk.js",
+    "static/css/main.d4ab34ad.chunk.css",
+    "static/js/main.1b425461.chunk.js"
+  ]
+}
